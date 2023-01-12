@@ -8,7 +8,6 @@ namespace StackQueue
 {
     class Node
     {
-
         public int data;
         public Node next;
 
@@ -17,5 +16,6 @@ namespace StackQueue
             data = d;
             next = null;
         }
+
     }
 }
