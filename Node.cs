@@ -8,6 +8,7 @@ namespace StackQueue
 {
     class Node
     {
+
         public int data;
         public Node next;
 
