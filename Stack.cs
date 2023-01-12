@@ -63,6 +63,7 @@ namespace StackQueue
                 Console.WriteLine(" Stack " + temp.data);
                 temp = temp.next;
             }
+
         }
     }
 }
